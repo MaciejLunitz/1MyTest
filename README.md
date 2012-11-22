@@ -1,4 +1,4 @@
-1Symfony
+1MyTest only
 ========
 
 TestRepo
