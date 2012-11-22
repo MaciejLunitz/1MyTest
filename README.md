@@ -1,4 +1,4 @@
 1Symfony
 ========
 
-Taka niespodzianka w testing
+Taka niespodzianką w testing
